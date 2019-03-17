@@ -12,7 +12,7 @@
 ### O projeto possui:
 * Servidor Apache Tomcat 7 configurado;
 * Script completo de criação do banco de dados;
-* Script para popular combos;
+* Script para popular tabelas;
 * Códigos do projeto;
 
 ### Opções para criação do banco de dados:
